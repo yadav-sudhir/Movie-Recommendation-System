@@ -3,6 +3,10 @@
 ## Description
 This project is a simple movie recommendation system built with Python and Streamlit. It recommend similar movies based on the user's selection, utilizing a content-based filtering approach.
 
+## Dataset
+TMDB 5000 movies from Kagal
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 ## Features
 - Interactive web interface using Streamlit
 - Recommends 5 similar movies based on user's choice
